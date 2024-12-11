@@ -5,7 +5,9 @@ then i used different types of charts for data visulization. Reason of creating 
 seeing visuals because visuals gives clear insights of data as compares to Raw data.
 
 ## Report - 
-![sales report on Sales analysis1](https://github.com/user-attachments/assets/7421d4b2-bf23-452d-9c79-6af595195cb0)
+
+![re](https://github.com/user-attachments/assets/ef2a0fd7-262f-42f3-875c-9a963a8f27cc)
+
 
 ![sales report on Sales analysis2](https://github.com/user-attachments/assets/fa352f04-9106-453d-b851-4fa941533a27)
 
